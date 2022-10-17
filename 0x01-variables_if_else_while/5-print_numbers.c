@@ -2,6 +2,7 @@
 
 /**
  * main - print all strings from 0 to 9
+ *
  * Returns: Always 0
  */
 int main(void)
