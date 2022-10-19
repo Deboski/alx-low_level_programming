@@ -1,4 +1,4 @@
-##include "main.h"
+#include "main.h"
 
 /**
  * print_sign - prints the sign of a number
@@ -21,8 +21,8 @@ int print_sign(int n)
 	}
 	else
 	{
-		_putchar('-');
+		_putchar('_');
 		return (-1);
 	}
-}
+`}
 
